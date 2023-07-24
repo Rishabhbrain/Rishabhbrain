@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&usqp=CAU">
 
-- 🔭 I’m currently working on **Object Detection using CV**
+- 🔭 I’m currently working on **Object Detection using CV, React Website**
 
-- 🌱 I’m currently learning **Django, Flutter**
+- 🌱 I’m currently learning **Django, Flutter, ReactJs**
 
 - 💬 Ask me about **Python, prompt engineering, WebDev**
 
