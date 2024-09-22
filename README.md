@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Object Detection using CV, React Website**
 
-- 🌱 I’m currently learning **Django, Flutter, ReactJs**
+- 🌱 I’m currently learning **Python , MERN Stack**
 
 - 💬 Ask me about **Python, prompt engineering, WebDev**
 
 - 📫 How to reach me **rishabjain.jain1@gmail.com**
 
-- ⚡ Fun fact **I am funny and an artist.**
+- ⚡ Fun fact **I am an artist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
