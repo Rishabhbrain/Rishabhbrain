@@ -55,6 +55,9 @@
   <li>
     <strong><a href="https://measurementdo.surge.sh/" target="_blank">MeasurementDo</a></strong>: A platform for tailors and fashion designers where they can easily take customer measurements based on the garment. Details are shared with both the tailor and customer via WhatsApp API.
   </li>
+  <li>
+    <strong><a href="https://ocrbyrish.surge.sh/" target="_blank">AIWala</a></strong>: OCR - Extract text from Image.
+  </li>
 </ul>
 
 
