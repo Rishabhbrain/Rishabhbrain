@@ -60,7 +60,7 @@
 
 <h3 align="left">Download My Resume:</h3>
 <p align="left">
-  <a href="path/to/your/resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1MpY_WbVIkW_wiZye46UM77caMLySD_c5/view?usp=sharing" target="_blank">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
       Download Resume
     </button>
