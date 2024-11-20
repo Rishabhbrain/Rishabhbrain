@@ -36,8 +36,6 @@
   <li><img src="https://img.shields.io/badge/Hackathon%20Winner-1st%20Place-orange?style=flat-square" /></li>
   <li><img src="https://img.shields.io/badge/Bootcamp-Completed-blue?style=flat-square" /></li>
 </ul>
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![React](https://img.shields.io/badge/React-Intermediate-green)
 
 
 <h3 align="left">Live Projects:</h3>
