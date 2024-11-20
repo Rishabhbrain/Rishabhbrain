@@ -8,10 +8,6 @@
 - 📫 How to reach me **rishabjain.jain1@gmail.com**
 - ⚡ Fun fact: **I am an artist.**
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rishabhbrain&bg_color=ffffff&color=000000&line=1c6ea4&point=403d3d&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,17 +37,23 @@
 
 <h3 align="left">Live Projects:</h3>
 <ul>
-  <li>  <a href="https://therishway.surge.sh" target="https://therishway.surge.sh/">View All</a> </li>
   <li>
-    <strong>Object Detection App</strong>: A web application that uses computer vision to detect objects in images. <a href="https://example.com/object-detection" target="_blank">View Project</a>
+    <strong><a href="https://aiwala.netlify.app/" target="_blank">AIWala</a></strong>: Landing page for an e-learning platform that teaches AI and other tech-related courses.
   </li>
   <li>
-    <strong>Portfolio Website</strong>: A personal portfolio website built with React showcasing my projects and skills. <a href="https://example.com/portfolio" target="_blank">View Project</a>
+    <strong><a href="https://sassytravels.netlify.app/" target="_blank">StaySassy</a></strong>: Landing page for a hotel and travel booking platform.
   </li>
   <li>
-    <strong>Weather Dashboard</strong>: A responsive web app that provides weather forecasts using external APIs. <a href="https://example.com/weather-dashboard" target="_blank">View Project</a>
+    <strong><a href="https://dsalive.netlify.app/" target="_blank">DSA Live</a></strong>: A page where anyone can learn DSA using interactive tools and animations.
+  </li>
+  <li>
+    <strong><a href="https://quizgenie.surge.sh/" target="_blank">QuizGenie</a></strong>: Allows users to select topics, subtopics, number of questions, and generate a question paper.
+  </li>
+  <li>
+    <strong><a href="https://measurementdo.surge.sh/" target="_blank">MeasurementDo</a></strong>: A platform for tailors and fashion designers where they can easily take customer measurements based on the garment. Details are shared with both the tailor and customer via WhatsApp API.
   </li>
 </ul>
+
 
 <h3 align="left">Download My Resume:</h3>
 <p align="left">
