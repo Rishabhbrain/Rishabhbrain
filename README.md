@@ -33,7 +33,7 @@
 <h3 align="left">Achievements:</h3>
 <ul>
   <li><img src="https://img.shields.io/badge/Certification-Python%20for%20Data%20Science-green?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/Hackathon%20Winner-1st%20Place-orange?style=flat-square" /></li>
+  <li><img src="https://img.shields.io/badge/Hackathon%20Participant-3%20Hackathons-blue?style=flat-square" /></li>
   <li><img src="https://img.shields.io/badge/Bootcamp-Completed-blue?style=flat-square" /></li>
 </ul>
 
