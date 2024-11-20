@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&usqp=CAU">
 <h5>Do it the "TheRishWay"</h5>
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhbrain&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on **Object Detection using CV, React Website**
@@ -37,6 +36,9 @@
   <li><img src="https://img.shields.io/badge/Hackathon%20Winner-1st%20Place-orange?style=flat-square" /></li>
   <li><img src="https://img.shields.io/badge/Bootcamp-Completed-blue?style=flat-square" /></li>
 </ul>
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![React](https://img.shields.io/badge/React-Intermediate-green)
+
 
 <h3 align="left">Live Projects:</h3>
 <ul>
