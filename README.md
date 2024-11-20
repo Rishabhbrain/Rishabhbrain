@@ -8,6 +8,11 @@
 - 📫 How to reach me **rishabjain.jain1@gmail.com**
 - ⚡ Fun fact: **I am an artist.**
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rishabhbrain&bg_color=ffffff&color=000000&line=1c6ea4&point=403d3d&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rishabh-modi" target="_blank">
