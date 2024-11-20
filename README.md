@@ -4,11 +4,11 @@
 <h5>Do it the "TheRishWay"</h5>
 
 
-- 🔭 I’m currently working on **Object Detection using CV, React Website**
-- 🌱 I’m currently learning **Python, MERN Stack**
+- 🔭 I’m currently working on **AI for Communication**
+- 🌱 I’m currently learning **Python, MERN Stack, Js**
 - 💬 Ask me about **Python, prompt engineering, WebDev**
 - 📫 How to reach me **rishabjain.jain1@gmail.com**
-- ⚡ Fun fact: **I am an artist.**
+- ⚡ Fun fact: **I am an artist. Words to poetry, ideas to solutions, I do it All!**
 
 
 <h3 align="left">Connect with me:</h3>
