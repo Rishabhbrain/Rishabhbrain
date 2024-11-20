@@ -36,7 +36,7 @@
 
 <h3 align="left">Live Projects:</h3>
 <ul>
-  <li>  <a href="therishway.surge.sh" target="https://therishway.surge.sh/">View All</a> </li>
+  <li>  <a href="https://therishway.surge.sh" target="https://therishway.surge.sh/">View All</a> </li>
   <li>
     <strong>Object Detection App</strong>: A web application that uses computer vision to detect objects in images. <a href="https://example.com/object-detection" target="_blank">View Project</a>
   </li>
