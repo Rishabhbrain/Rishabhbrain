@@ -41,6 +41,9 @@
 <h3 align="left">Live Projects:</h3>
 <ul>
   <li>
+    <strong><a href="https://chatroom-u3ci.onrender.com/" target="_blank">Chatroom</a></strong>: Live chatroom that allows user to join a room and talk.
+  </li>
+  <li>
     <strong><a href="https://aiwala.netlify.app/" target="_blank">AIWala</a></strong>: Landing page for an e-learning platform that teaches AI and other tech-related courses.
   </li>
   <li>
